@@ -1,4 +1,4 @@
 # Gaming-Store-Database-Website
-Frontend - HTML, Inline CSS
-Backend - PHP
-Database - mySQL
+Frontend - HTML, Inline CSS;
+Backend - PHP;
+Database - mySQL;
