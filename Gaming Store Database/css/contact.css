@@ -1,0 +1,49 @@
+.first-box {
+  width:300px; 
+  float:left; 
+  background: #151515; 
+  height: 300px;
+  margin: 50px;
+    margin-left: 300px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.first-box p {
+  color: #ffffff;
+  padding-left: 20px;
+    padding-right: 20px;
+  padding-top: 5px;
+}
+
+.second-box {
+  width:300px; 
+  float: right;
+  height: 300px;  
+  background: #151515;
+  margin: 50px;
+    margin-right: 300px;
+    text-align: center;
+    padding-top: 30px;
+  
+}
+
+.second-box p {
+  color: #ffffff;
+  padding-left: 20px;
+  padding-right: 20px;
+    padding-top: 5px;
+}
+
+.but {
+  background-color: chartreuse;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
